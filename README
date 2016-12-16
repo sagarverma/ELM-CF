@@ -1,0 +1,6 @@
+1. codes directory contains all the code files.
+2. dataset directory contains all the datasets.
+3. run elm.py to get all the results.
+4. results.csv contains all the resutls.
+5. graph_best.py extracts best results and generates graphs.
+6. *formator.py files bin and generate one hot vector for respective metadata files.
